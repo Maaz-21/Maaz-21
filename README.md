@@ -1,6 +1,6 @@
 # Hi there, I'm Maaz! 👋
 
-Welcome to my GitHub! I am a software developer who enjoys building impactful applications, and exploring new technologies. Whether I'm crafting full-stack web applications or grinding through data structures, I love bringing ideas to life through code.
+Welcome to my GitHub! I am a software developer who enjoys building applications, and exploring new technologies. Whether I'm crafting full-stack web applications or grinding through data structures, I love bringing ideas to life through code.
 
 ## 🚀 About Me
 - 🔭 I’m currently focused on **Full-Stack Development** and building real-time applications.
